@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\bin\Debug\net6.0\Aula 3.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\bin\Debug\net6.0\Aula 3.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\bin\Debug\net6.0\Aula 3.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\bin\Debug\net6.0\Aula 3.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\bin\Debug\net6.0\Aula 3.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\refint\Aula 3.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\Aula 3.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\Aula 3\obj\Debug\net6.0\ref\Aula 3.dll

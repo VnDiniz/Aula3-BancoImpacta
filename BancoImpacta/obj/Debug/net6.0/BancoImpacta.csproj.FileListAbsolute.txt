@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\refint\BancoImpacta.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\BancoImpacta\obj\Debug\net6.0\ref\BancoImpacta.dll

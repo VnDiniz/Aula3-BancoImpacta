@@ -1,0 +1,15 @@
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.exe
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.deps.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.runtimeconfig.json
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\bin\Debug\net6.0\ExemploEnum.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.AssemblyReference.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfoInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfo.cs
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.CoreCompileInputs.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\refint\ExemploEnum.dll
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.pdb
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ExemploEnum.genruntimeconfig.cache
+C:\Curso Udemy - CSharp\Curso Impacta\Aula 3\Aula 3\ExemploEnum\obj\Debug\net6.0\ref\ExemploEnum.dll
